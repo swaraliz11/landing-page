@@ -26,3 +26,12 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button {
+    background-color: #0D6EFD;
+    border: none;
+    padding: 8px 28px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+}
