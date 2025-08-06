@@ -39,3 +39,8 @@ button {
     border-radius: 5px;
     font-weight: 600;
 }
+
+.image-placeholder {
+    background-color: gray;
+    color: #E5E7EB;
+}
