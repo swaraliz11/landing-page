@@ -5,6 +5,8 @@ body {
 .main-card {
     font-family: Roboto, sans-serif;
     background-color: #1F2937;
+    height: 400px;
+    width: 1500px;
 }
 
 .card-container {
