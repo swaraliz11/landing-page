@@ -17,6 +17,10 @@ ul {
     list-style-type: none;
 }
 
+ul > li {
+    display: inline-block;
+}
+
 a {
     text-decoration: none;
     color: #F9FaF8;
