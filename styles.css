@@ -74,4 +74,6 @@ button {
 .image-placeholder {
     background-color: gray;
     color: #E5E7EB;
+    width: 520px;
+    height: 220px;
 }
