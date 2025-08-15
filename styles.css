@@ -11,7 +11,7 @@ body {
 
 .main-container {
     display: flex;
-    gap: 60px;
+    gap: 90px;
 }
 
 .logo {
