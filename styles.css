@@ -84,3 +84,13 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+.information {
+    font-family: Roboto, 'sans-serif';
+}
+
+.information-header-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
