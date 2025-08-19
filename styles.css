@@ -99,3 +99,7 @@ button {
     color: #1F2937;
     font-weight: 900;
 }
+
+.main-image-container {
+    display: flex;
+}
