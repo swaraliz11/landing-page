@@ -102,6 +102,7 @@ button {
 
 .main-image-container {
     display: flex;
+    gap: 50px;
 }
 
 .image {
