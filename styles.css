@@ -108,6 +108,9 @@ button {
     height: 150px;
     width: 150px;
     border: solid;
+    border-color: #0D6DFD;
+    border-radius: 10px;
+    border-width: 3px;
 }
 
 .image-subtext {
