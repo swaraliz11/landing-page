@@ -115,4 +115,6 @@ button {
 
 .image-subtext {
     color: #71797E;
+    display: flex;
+    flex-wrap: wrap;
 }
