@@ -124,6 +124,11 @@ button {
     text-align: center;
 }
 
+.quote-container {
+    display: flex;
+    background-color: #E5E7EB;
+}
+
 .quote-text {
     font-size: 36px;
     font-style: italic;
