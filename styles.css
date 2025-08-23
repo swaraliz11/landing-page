@@ -127,6 +127,8 @@ button {
 .quote-container {
     display: flex;
     background-color: #E5E7EB;
+    height: 300px;
+    padding: 50px;
 }
 
 .quote-text {
