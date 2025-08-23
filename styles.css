@@ -136,4 +136,6 @@ button {
     font-style: italic;
     color: #1F2937;
     font-weight: lighter;
+    margin: auto;
+    width: 820px;
 }
