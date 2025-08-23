@@ -1,9 +1,9 @@
 body {
     margin: 0;
+    font-family: Roboto, sans-serif;
 }
 
 .main-card {
-    font-family: Roboto, sans-serif;
     background-color: #1F2937;
     height: 520px;
     width: 1500px;
