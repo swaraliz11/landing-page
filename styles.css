@@ -141,3 +141,9 @@ button {
     margin: auto;
     width: 820px;
 }
+
+.quote-author {
+    display: flex;
+    height: 30px;
+    width: 930px;
+}
