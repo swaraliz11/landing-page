@@ -150,3 +150,7 @@ button {
     justify-content: flex-end;
     font-size: 20px;
 }
+
+.call-to-action-container {
+    height: 450px;
+}
