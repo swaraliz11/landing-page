@@ -154,3 +154,10 @@ button {
 .call-to-action-container {
     height: 450px;
 }
+
+.call-to-action-card {
+    width: 1000px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+}
