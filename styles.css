@@ -160,4 +160,8 @@ button {
     height: 150px;
     display: flex;
     flex-direction: column;
+    background-color: #3882F6;
+    border: solid #3882F6;
+    color: white;
+    margin: auto;
 }
