@@ -162,6 +162,7 @@ button {
     flex-direction: column;
     background-color: #3882F6;
     border: solid #3882F6;
+    border-radius: 8px;
     color: white;
     margin: auto;
 }
