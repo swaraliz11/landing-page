@@ -159,7 +159,6 @@ button {
     width: 1000px;
     height: 150px;
     display: flex;
-    flex-direction: column;
     background-color: #3882F6;
     border: solid #3882F6;
     border-radius: 8px;
