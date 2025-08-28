@@ -165,3 +165,8 @@ button {
     color: white;
     margin: auto;
 }
+
+.call-to-action-button > button {
+    border: solid white;
+    background-color: #3882F6;
+}
