@@ -168,7 +168,11 @@ button {
 
 .call-to-action-title {
     font-weight: 800;
-    font-size: 20px;
+    font-size: 25px;
+}
+
+.call-to-action-subtext {
+    font-size: 18px;
 }
 
 .call-to-action-title-and-subtext {
