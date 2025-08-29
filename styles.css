@@ -182,3 +182,10 @@ button {
     border: solid white;
     background-color: #3882F6;
 }
+
+.call-to-action-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 220px;
+}
