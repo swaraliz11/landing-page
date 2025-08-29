@@ -166,6 +166,11 @@ button {
     margin: auto;
 }
 
+.call-to-action-title {
+    font-weight: 800;
+    font-size: 20px;
+}
+
 .call-to-action-button > button {
     border: solid white;
     background-color: #3882F6;
