@@ -185,6 +185,7 @@ button {
 .call-to-action-button > button {
     border: solid white;
     background-color: #3882F6;
+    font-size: 18px;
 }
 
 .call-to-action-button {
