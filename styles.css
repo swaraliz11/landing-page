@@ -202,3 +202,7 @@ button {
     background-color: #1F2937;
     color: white;
 }
+
+.footer-text {
+    margin: auto;
+}
