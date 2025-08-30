@@ -198,7 +198,7 @@ button {
 
 .footer-container {
     display: flex;
-    height: 80px;
+    height: 100px;
     background-color: #1F2937;
     color: white;
 }
