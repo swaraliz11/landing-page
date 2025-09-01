@@ -1,2 +1,2 @@
 # Landing Page
-A sample landing page created as a part of an Odin Project assignment.
+A sample landing page created as an assignment for the Odin Project.
